@@ -1,0 +1,81 @@
+﻿
+# GitHub Start
+
+# 192.30.253.112    github.com
+52.74.223.119    github.com
+# 192.30.253.119    gist.github.com
+13.250.177.223    gist.github.com
+151.101.184.133    assets-cdn.github.com
+151.101.184.133    raw.githubusercontent.com
+151.101.184.133    gist.githubusercontent.com
+151.101.184.133    cloud.githubusercontent.com
+151.101.184.133    camo.githubusercontent.com
+151.101.184.133    avatars0.githubusercontent.com
+151.101.184.133    avatars1.githubusercontent.com
+151.101.184.133    avatars2.githubusercontent.com
+151.101.184.133    avatars3.githubusercontent.com
+151.101.184.133    avatars4.githubusercontent.com
+151.101.184.133    avatars5.githubusercontent.com
+151.101.184.133    avatars6.githubusercontent.com
+151.101.184.133    avatars7.githubusercontent.com
+151.101.184.133    avatars8.githubusercontent.com
+
+# GitHub End
+
+# MGTA Start
+
+23.42.183.186 assets.mtgarena.wizards.com
+23.42.183.186 mtgarena.downloads.wizards.com
+23.13.191.228 mtga.api.cmessaging.wizards.com
+23.42.183.186 api.platform.wizards.com
+
+# MGTA End
+
+# Android Start
+
+# 203.208.43.79 developer.android.google.cn
+# 203.208.50.183 gstatic.cn
+
+# Android End
+
+# Pandownload Start
+
+# 64.52.84.68 pandownload.com
+
+# Pandownload End
+
+# Visual Studio Start
+
+
+27.22.54.160 download.visualstudio.microsoft.com
+61.147.106.223 download.visualstudio.microsoft.com
+
+# Visual Studio End
+
+# Discord Start
+
+162.159.136.232 discord.com
+162.159.133.233 discordapp.com
+162.159.135.232 discord.com
+162.159.129.233 discord.com
+
+# Discord End
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Added by Docker Desktop
+192.168.0.107 host.docker.internal
+192.168.0.107 gateway.docker.internal
+# To allow the same kube context to work on the host and the container:
+127.0.0.1 kubernetes.docker.internal
+# End of section
