@@ -58,6 +58,15 @@
 162.159.133.233 discordapp.com
 162.159.135.232 discord.com
 162.159.129.233 discord.com
+162.159.130.232 dl.discordapp.net
+162.159.134.234 gateway.discord.gg
+# 162.159.135.234,162.159.133.234,162.159.130.234,162.159.134.234,162.159.136.234
+162.159.130.233 status.discordapp.com
+162.159.129.233 cdn.discordapp.com
+# 162.159.133.233
+# media.discordapp.net
+# images-ext-2.discordapp.net
+# images-ext-1.discordapp.net
 
 # Discord End
 
