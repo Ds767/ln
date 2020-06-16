@@ -33,6 +33,7 @@
 
 # Android Start
 
+203.208.50.104 dl.google.com                            
 # 203.208.43.79 developer.android.google.cn
 # 203.208.50.183 gstatic.cn
 
@@ -67,6 +68,7 @@
 # media.discordapp.net
 162.159.133.232 images-ext-2.discordapp.net
 # images-ext-1.discordapp.net
+13.224.148.238 static-cdn.jtvnw.net	     
 
 # Discord End
 
