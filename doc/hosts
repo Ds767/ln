@@ -1,4 +1,26 @@
-﻿
+﻿# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+
 # GitHub Start
 
 # 192.30.253.112    github.com
@@ -33,7 +55,7 @@
 
 # Android Start
 
-203.208.50.104 dl.google.com                            
+203.208.50.104 dl.google.com
 # 203.208.43.79 developer.android.google.cn
 # 203.208.50.183 gstatic.cn
 
@@ -42,6 +64,14 @@
 # Pandownload Start
 
 # 64.52.84.68 pandownload.com
+# 104.18.47.74 pandownload.com
+# 104.18.46.74 pandownload.com
+# 118.24.245.110 pandownload.com
+
+# 185.199.108.153 pandownload.com
+# 185.199.109.153 pandownload.com
+# 185.199.111.153 pandownload.com
+# 185.199.110.153 pandownload.com
 
 # Pandownload End
 
@@ -65,14 +95,37 @@
 162.159.130.233 status.discordapp.com
 162.159.129.233 cdn.discordapp.com
 # 162.159.133.233
-# media.discordapp.net
+#104.16.250.144 media.discordapp.net
 162.159.133.232 images-ext-2.discordapp.net
-# images-ext-1.discordapp.net
-13.224.148.238 static-cdn.jtvnw.net	     
+# 104.16.250.144 images-ext-1.discordapp.net
+13.224.148.238 static-cdn.jtvnw.net
+# 143.204.73.8
 
 # Discord End
 
+# Onedrive Start all 404
 
+ 13.107.42.13 onedrive.live.com
+# 13.104.208.162 skyapi.onedrive.live.com
+# 13.104.208.164
+# 40.90.136.179 skyapi.onedrive.live.com
+
+# Onedrive End
+
+# bing Start
+
+202.89.233.102 cn.bing.com
+202.89.233.102 www.bing.com
+202.89.233.102 bing.com
+202.89.233.102 bing.com.cn
+202.89.233.102 bing.cn
+
+# bing End
+
+153.3.137.123 gitee.com
+
+203.208.50.98 translate.google.cn
+203.208.50.66 golang.google.cn
 
 
 
